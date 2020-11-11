@@ -1,0 +1,29 @@
+TODO:
+Stumble upon mine - DONE
+Look displays ore - DONE
+Pickaxe required - DONE
+Level affects amount mined - PUSHED BACK
+Recipe system - DONE
+Craft system - DONE
+Write better tanning/smelting system - NOT PRIORITY
+'loot' auto loots everything if item not specified
+Fallen heroes, shows all your characters as well as their stats on death, maybe appear as enemies?
+More random events
+Customization
+
+Mining:
+When wandering, there is chance to stumble upon mine
+You can choose to enter mine or not
+Upon entering, a random amount of ore is present
+There may also be a mine guardian (goblin?) preventing you from mining until it is slain - Unsure
+
+Crafting:
+Deconstruct items for materials?
+Command to show all available recipes
+Recipes can take infinite amount of items to make? ex: ["Iron Sword", iron, iron, iron, wood, boar hide]
+
+User content support:
+Separate files for creating user content so modders don't have to interact with Main game script
+
+Work:
+Crafting -> User Content? -> Magic?? 

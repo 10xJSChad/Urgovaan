@@ -1,0 +1,42 @@
+Welcome to Urgovaan
+A strange land inhabited by many creatures, most of whom dislike you.
+You are a human of the lands to the west, sent to explore what lies beyond.
+The only friendly faces are those of your fellow countrymen in the town, the only human settlement in Urgovaan
+To survive in this unforgiving land, you will have to fight, loot, and craft to stay well equipped.
+Good luck, adventurer, you will come to need it.
+
+(Words surrounded by quitation marks are commands you can input in the game)
+(ITEM represents the name of the item)
+
+TYPE 'Help' IN-GAME TO SEE ALL COMMANDS
+
+1. Town
+Upon starting the game, you will be in town.
+In town you can access your 'bank' to store and withdraw items, enter the 'shop' to buy supplies and equipment, 'rest' to regenerate your health, 'smelt' ore into bars, or 'tan' hides into leather
+
+Bank commands:
+'Deposit ITEM'
+'Withdraw ITEM'
+'Examine ITEM'
+'Leave'
+
+Shop commands:
+'General', 'Weapons', 'Armor' to see what's in stock in each of the categories
+'Buy ITEM'
+'Sell ITEM'
+'Examine ITEM'
+'Leave'
+
+To smelt ore or tan hide, enter the command: 'smelt ITEM' or 'tan ITEM'
+
+2. Wandering
+To leave town, you must 'wander' out into the wilderness
+When you 'wander' there is a chance to stumble upon a mine, where you may 'mine' ore to smelt and craft items with
+You need a pickaxe to 'mine' ore.
+When wandering, you will encounter enemies. Make sure to 'look' around each time you step deeper into the wilderness.
+When you encounter an enemy, you can 'attack' it to gain items and experience (attack ENEMY NAME)
+The enemy may drop items upon death, in which case you can 'loot' it. (loot specific item with 'loot ITEM', alternatively, loot everything with just 'loot')
+
+3. Crafting
+You can 'craft' items from 'recipes' you unlock by leveling up your crafting skill'
+(craft ITEM NAME)
